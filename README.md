@@ -62,7 +62,6 @@ indentation by space and number again
   2. carrying 
   3. over
 
-
 tables by pipe "|" as edges of column
 use a colon to show a direction of going alligning 
 
@@ -74,3 +73,6 @@ use a colon to show a direction of going alligning
 |data     |advance  |
 |data     |advance  |
 
+
+_make text_italic_
+**To_make text bold**
