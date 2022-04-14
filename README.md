@@ -64,9 +64,12 @@ indentation by space and number again
 
 
 tables by pipe "|" as edges of column
+use a colon to show a direction of going alligning 
+
 
 |Column 1 |Column 2 |
-| --------|---------|
+| -:      |---      |
+|data     |advance  |
 |data     |advance  |
 |data     |advance  |
 |data     |advance  |
