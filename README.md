@@ -1,7 +1,7 @@
 
 
 #Readme 
-how to make an file beauty
+how to make a Readme
 
 
 Tags:
@@ -57,7 +57,7 @@ Undwer pubic license to reference -
 3. three etc list of numbers
 
 
-indentation by space and number again 
+indentation by space and number again #doesn't work as it is ;) 
 1. start
   1. start indend
   2. carrying 
